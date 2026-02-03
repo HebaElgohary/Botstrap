@@ -1,0 +1,19 @@
+.slider{
+    width: 100%;
+    margin: auto;
+    max-height:600px ;
+    background-color: antiquewhite;
+
+}
+.slider img{
+    width: 100%;
+}
+.card{
+    border: none;
+
+}
+.card img{
+    width: 90%;
+    margin-left: auto;
+    height:  350px;
+}
