@@ -322,13 +322,13 @@ font-weight: 400;
     display: inline-block;
     width: 30%;
    /* max-height: 1000px; */
-    margin-right: 60px;
+    /* margin-right: 60px;
     padding-right: 60px;
     position: absolute;
     top: 20px;
     right: 120px;
     height: 100%;
-}
+} */
 #tree p ,#four p{
     font-weight: 400;
     font-size: 24px
